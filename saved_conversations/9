@@ -1,0 +1,31 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is arvind sisodiya
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : my name is arvind sisodiya
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : eeee\\
+bot : - great to know. how can i assist you then?
+user : my name is arvind
+bot : - Hello! your name has been stored. What is your age?
+user : nnnn\\
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : my name is arvind
+bot : - Hello! your name has been stored. What is your age?
+user : i am 21 year old
+bot : - okay. your age has been stored. Which city do you live in?
+user : indore
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : feeling headache
+bot : - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+user : i want to talk to a doctor
+bot : - you shall be called once the doctor is available. Do you want to book an appointment?
+user : i want to book an appointment
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : nnnn\\
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : nnnnn\\
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : nnnnnn\\\
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : nnn\\
+bot : - okay, did you get hurt, or it is a suddern paining.
